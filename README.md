@@ -1,5 +1,5 @@
 # Workflow_Scripts
-A collection of script that can improve user workflow by automating many data processes.
+A collection of python scripts that can improve user workflow by automating many data processes.
 
 gzip_read_and_compress.py : Enables the user to create compressed .zip folders and read compressed .zip folders using gzip
 
